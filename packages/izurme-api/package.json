@@ -1,0 +1,19 @@
+{
+  "name": "izurme-api",
+  "version": "0.0.1",
+  "description": "API to interact with control cluster",
+  "author": "hwgilbert16",
+  "license": "MIT",
+  "directories": {},
+  "files": [""],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hwgilbert16/izurme.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/hwgilbert16/izurme/issues"
+  }
+}
